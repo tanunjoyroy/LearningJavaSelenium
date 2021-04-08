@@ -3,7 +3,7 @@ package BasicsofJava;
 public class Array {
 
 	public static void main(String[] args) {
-		
+		//code pushed by tanunjoy
 		//integer array
 		int i[]=new int[4];
 		i[0]=10;
