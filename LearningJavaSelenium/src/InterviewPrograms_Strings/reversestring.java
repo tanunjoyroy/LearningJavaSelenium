@@ -4,7 +4,7 @@ public class reversestring {
 
 	public static void main(String[] args) {
 		
-		String t = "Selenium";
+		String t = "I am tanunjoy";
 		
 		//1.Using for loop
 		
