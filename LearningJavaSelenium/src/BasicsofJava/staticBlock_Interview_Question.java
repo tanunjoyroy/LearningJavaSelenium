@@ -2,6 +2,8 @@ package BasicsofJava;
 
 public class staticBlock_Interview_Question {
 	
+	//video link https://www.youtube.com/watch?v=iauIFnXyOzI
+	
 	//How can we create objects if we make constructor private?
 	
 	//1.objects can be created & initialized using the private constructor within the class as private's scope is always within the class
