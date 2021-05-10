@@ -4,7 +4,7 @@ public class reverseEachWordOfString {
 
 	public static void main(String[] args) {
 		
-		String str = "I am Tanunjoy";
+		String str = "I am tanunjoy";
 		
 		String words[] = str.split(" ");
 		
@@ -12,12 +12,12 @@ public class reverseEachWordOfString {
 		
 		for(int i=0;i<words.length;i++)
 		{
-			String word = words[i];
+			
 			String revWord = "";
 			
-			for(int j=word.length()-1;j>=0;j--)
+			for(int j=words[i].length()-1;j>=0;j--)
 			{
-				revWord = revWord + word.charAt(j);
+				revWord = revWord + words[i].charAt(j);
 				
 			}
 			

@@ -2,6 +2,8 @@ package InterviewPrograms_Strings;
 
 public class Findsubsetsofastring {
 
+	//The subsets/substrings of a string is the character or the group of characters that are present inside the given string.
+	//This program can be asked as find substrings of a string
 	public static void main(String[] args) {
 		String str = "FUN";
 		

@@ -29,7 +29,7 @@ public class findClosestNumto0inarrray {
 
 	public static void main(String[] args) {
 		
-		int[] myArray = {-5, -2, -3, -1, 0};
+		int[] myArray = {-1,-5, -2, -3, 2};
 	
 		System.out.println(getClosestToZero(myArray));
 		

@@ -1,3 +1,5 @@
+//this question can be also twisted as find all repeated words in a string
+
 package Collections.HashMap;
 
 import java.util.HashMap;

@@ -1,9 +1,10 @@
-/*  * 
+/*  
+    * 
    * * 
   * * * 
  * * * * 
-* * * * * */
-
+* * * * *
+ */
 package PatternPrograms;
 
 public class pyramidStarPattern {

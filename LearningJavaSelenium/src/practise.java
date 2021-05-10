@@ -5,9 +5,15 @@ import java.util.Scanner;
 import com.gargoylesoftware.htmlunit.javascript.host.Console;
 
 public class practise {
+	
+	
 
 	public static void main(String[] args) {
-
+		
+	    
+		
+		
+		
     //continue from  https://www.javatpoint.com/java-programs start from string programs 19
 			
 	//program 8,9,15 pending; video link for 8 https://www.coursera.org/lecture/cs-algorithms-theory-machines/longest-repeated-substring-hkJBt

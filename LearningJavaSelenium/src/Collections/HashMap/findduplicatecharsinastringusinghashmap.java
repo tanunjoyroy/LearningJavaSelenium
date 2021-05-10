@@ -1,3 +1,5 @@
+//this question can be also twisted as find all repeated chars in a string
+
 package Collections.HashMap;
 
 import java.util.HashMap;
